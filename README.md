@@ -1,5 +1,5 @@
-# ComfyUI_AC_FUN_Tool
-一、代码介绍：
+# ComfyUI_AC_FUN_Tool 老版本（不要用），请前往V1.0页面下载更新版本
+# 一、代码介绍：
 
 一个给comfyui提供数学运算的代码工具
 ![04](https://github.com/A719689614/ComfyUI_AC_FUN_Tool/assets/142242136/90a97eb8-050f-4041-96dd-f6a9218f6259)
@@ -13,7 +13,7 @@
 
 
 
-二、安装说明：
+# 二、安装说明：
 直接下载CODE，解压文件到Custom node目录下，重启comfy ui即可！
 
 哔哩哔哩搜索：惠和设计-啊程，观看更多互动内容！
